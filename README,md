@@ -1,0 +1,15 @@
+# Little Lemon Food Ordering App
+This project is a food ordering app for the Little Lemon restaurant. It allows users to browse the menu, place orders, and manage their food selections.
+## Features
+- User-friendly interface
+- Menu browsing
+- Order placement
+- User authentication
+## Technologies Used
+- Kotlin
+- Android Studio
+- Git for version control
+## Installation
+To run this project, clone the repository and open it in Android Studio.
+## License
+This project is licensed under the MIT License.
